@@ -1,0 +1,17 @@
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\bin\Debug\net6.0-windows\CS311_FinalProject_Zts.exe
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\bin\Debug\net6.0-windows\CS311_FinalProject_Zts.deps.json
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\bin\Debug\net6.0-windows\CS311_FinalProject_Zts.runtimeconfig.json
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\bin\Debug\net6.0-windows\CS311_FinalProject_Zts.dll
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\bin\Debug\net6.0-windows\CS311_FinalProject_Zts.pdb
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.csproj.AssemblyReference.cache
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.Form1.resources
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.csproj.GenerateResource.cache
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.AssemblyInfoInputs.cache
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.AssemblyInfo.cs
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.csproj.CoreCompileInputs.cache
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.dll
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\refint\CS311_FinalProject_Zts.dll
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.pdb
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\CS311_FinalProject_Zts.genruntimeconfig.cache
+C:\Users\sells\source\repos\CS311_FinalProject_Zts\obj\Debug\net6.0-windows\ref\CS311_FinalProject_Zts.dll
